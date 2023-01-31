@@ -1,0 +1,36 @@
+.heading1{
+    background-color: deeppink;
+    font-size: 25px;
+    width: 90%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgb(25, 165, 133);
+    color: white;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: linear-gradient(deeppink, orange, yellow, rgb(25, 165, 133), rgb(78, 149, 237), rgb(186, 98, 241));
+}
+
+.note{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    background-color: rgb(186, 98, 241);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+canvas{
+    background-color: rgb(78, 149, 237);
+    box-shadow: 10px 10px 10px rgb(237, 84, 84);
+}
